@@ -34,6 +34,6 @@ Sou desenvolvedor front-end de sistemas web! Além disso, na maior parte do dia 
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 
-<a target="_blank" href="https://api.whatsapp.com/send?phone=55211989660581">
+<a target="_blank" href="https://wa.me/5521989660581">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
